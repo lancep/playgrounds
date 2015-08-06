@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F6033D8-5891-4A3A-B869-BE3C70F79E16</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D8BED19589F5DDCCA4A37A6E0679AF7390D62B8C</key>
+		<string>github.com:lancep/playgrounds.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Init test.playground/playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D8BED19589F5DDCCA4A37A6E0679AF7390D62B8C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:lancep/playgrounds.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D8BED19589F5DDCCA4A37A6E0679AF7390D62B8C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D8BED19589F5DDCCA4A37A6E0679AF7390D62B8C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>playgrounds</string>
+		</dict>
+	</array>
+</dict>
+</plist>

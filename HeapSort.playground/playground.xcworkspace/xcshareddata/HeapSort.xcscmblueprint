@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D8BED19589F5DDCCA4A37A6E0679AF7390D62B8C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D8BED19589F5DDCCA4A37A6E0679AF7390D62B8C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0F6DE035-1EBB-4128-AB47-7AC8CD18810C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D8BED19589F5DDCCA4A37A6E0679AF7390D62B8C" : "playgrounds\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HeapSort",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HeapSort.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lancep\/playgrounds.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D8BED19589F5DDCCA4A37A6E0679AF7390D62B8C"
+    }
+  ]
+}
